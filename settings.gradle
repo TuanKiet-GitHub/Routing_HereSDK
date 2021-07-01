@@ -1,0 +1,2 @@
+rootProject.name = "Routing_HereSDK"
+include ':app'
